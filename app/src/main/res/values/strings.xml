@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Placar de Squash II</string>
+    <string name="reset">Reset</string>
+    <string name="sets">Sets</string>
+    <string name="_1_point">1 ponto</string>
+    <string name="nome_jogador_a">nome jogador A</string>
+    <string name="nome_jogador_b">nome jogador B</string>
+    <string name="points_per_set">Quantos pontos por Set?</string>
+</resources>
